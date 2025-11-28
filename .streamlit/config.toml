@@ -1,0 +1,2 @@
+[server]
+maxUploadSize = 1000  # Límite en MB (1GB). Puedes poner más si necesitas, pero la nube tiene límites de recursos.
